@@ -13,3 +13,11 @@ The task carried out includes:
 9. Cost Optimization
 10. Score Prediction
 11. Evaluation of models/ Selecting of best models and parameters
+
+**Survival Analysis**
+1. Importing data and packages
+2. Exploring dataset
+3. Data pre-processing
+4. Modelling
+5. Predicting - Analyzing the default time of customers
+6. Evaluation
