@@ -1,4 +1,6 @@
 # credit_scoring_python_scorecard_survival_analysis
+This Porject analyze the customer profiles of accepted and rejected and adapts, evaluate them to know the credit score of the profile.
+Survival Analysis is the study to know the default time of the customers and overall default pattern.
 This project is carried out in python language using Pandas, with packages like sklearn, numpy, matplotlib, seaborn, etc.
 
 The task carried out includes:
